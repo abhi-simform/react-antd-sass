@@ -1,8 +1,8 @@
-This is a NextJS + Ant Design + Styled Components boilerplate.
+This is a React + Ant Design + Sass boilerplate.
 
 ## Getting Started
 
-- Clone the repo: https://github.com/abhi-simform/react-antd-styled
+- Clone the repo: https://github.com/abhi-simform/react-antd-sass
 
 - Installation
   Run `npm ci` to install the dependencies. This will install the exact version of all the packages that were used while setting up the boilerplate thus avoiding any version incompatibility between packages.
